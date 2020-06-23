@@ -17,9 +17,9 @@
 Y<br>
 <code>python client.py</code>
 
-#### Abre tu navegador y accede al
-<code>POST | http://localhost:5000/</code>
+#### Abre tu navegador y accede a
+<code>http://localhost:5000/</code>
 
 #### Usuarios de Prueba
-<code>User: admin Password: 123456</code>
-<code>User: super Password: 123456</code>
+<code>User: <b>admin</b> Password: <b>123456</b></code><br>
+<code>User: <b>super</b> Password: <b>123456</b></code>

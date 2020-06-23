@@ -1,0 +1,5 @@
+bottle==0.12.13
+marshmallow==2.13.5
+peewee==2.10.1
+PyJWT==1.5.2
+requests==2.18.4

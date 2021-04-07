@@ -1,4 +1,4 @@
-bottle==0.12.13
+bottle==0.12.19
 marshmallow==2.13.5
 peewee==2.10.1
 PyJWT==1.5.2
